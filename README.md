@@ -35,10 +35,6 @@ You are expected to build a very responsive layout as per the expected output gi
 
 
 
-```
-You can either use <div> tag or <table> tag to achieve the expected outcome.
-```
-
 ### Progression 2: Be very responsive 
 Create a difference between active and passive days as per the expected output
 
