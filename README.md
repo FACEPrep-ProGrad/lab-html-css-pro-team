@@ -44,19 +44,65 @@ Kindly refer to the screenshot given below after the screensize is reduced.
 ![](https://i1.faceprep.in/ProGrad/ProTeam-5.png)
 ![](https://i1.faceprep.in/ProGrad/ProTeam-6.png)
 
+To do achieve this refer to the below code snippet.
+```
+@media(max-width: 1300px) {
+    .heading {
+        font-size: 65px;
+        width: 80%;
+    }
 
-The screenshots below the mobile view of the entire page.
-![](https://i1.faceprep.in/ProGrad/ProTeam-7.png)
-![](https://i1.faceprep.in/ProGrad/ProTeam-8.png)
-![](https://i1.faceprep.in/ProGrad/ProTeam-9.png)
-![](https://i1.faceprep.in/ProGrad/ProTeam-10.png)
-![](https://i1.faceprep.in/ProGrad/ProTeam-11.png)
-![](https://i1.faceprep.in/ProGrad/ProTeam-12.png)
-![](https://i1.faceprep.in/ProGrad/ProTeam-13.png)
+    .cards-wrapper {
+        width: 100%;
+        top: 32%;
+    }
 
-## Expected Output
-Here is a complete screenshot of the entire expected output.
+    .image-top {
+        height: 200px;
+    }
+}
 
+@media(max-width: 1000px) {
+    .container {
+        height: 100%;
+    }
+    .heading {
+        width: 90%;
+    }
 
+    .cards-wrapper {
+        flex-wrap: wrap;
+        padding: 300px 0 200px 0;
+    }
 
-Happy Coding ❤️
+    .card {
+        margin: 0 30px 50px 30px;
+    }
+}
+
+@media(max-width: 700px) {
+    .heading {
+        font-size: 50px;
+    }
+
+    .heading::after {
+        height: 40px;
+    }
+}
+
+@media(max-width: 450px) {
+    .heading {
+        font-size: 40px;
+    }
+
+    .heading::after {
+        height: 33px;
+    }
+
+    .cards-wrapper {
+        padding: 250px 0 150px 0;
+    }
+}
+```
+
+Happy Coding ProGrads❤️
