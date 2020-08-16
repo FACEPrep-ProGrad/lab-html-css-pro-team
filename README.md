@@ -105,4 +105,7 @@ To do achieve this refer to the below code snippet.
 }
 ```
 
+#Expected Output
+![Final-Output](https://faceprep-prograd.github.io/lab-html-css-pro-team/)
+
 Happy Coding ProGrads❤️
