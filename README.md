@@ -33,6 +33,24 @@ The starter-code contains all the files, images, and text content needed to crea
 You are expected to build a very responsive layout as per the expected output given below.
 ![Expected Output](https://i1.faceprep.in/ProGrad/ProTeam-1.png)
 
+You can refer to the code snippet below to create a card layout.
+```
+    <div class="card">
+                <img src="images/img-top1.jpeg" class="image-top">
+                <img src="./images/ragavi.jpg" class="profile-image">
+                <h1 class="fullname">Ragavi Venkatesh</h1>
+                <p class="job">Developer</p>
+                <p class="about-me">"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed natus illum expedita, at distinctio nesciunt."</p>
+                <button type="button">Explore Me</button>
+                <ul class="social-icons">
+                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                </ul>
+            </div>
+   ```
+
 ### Progression 2: Be very responsive 
 Now make the design very very responsive by using media queries.If you need a reference to media queries, you can refer here [Media queries](https://css-tricks.com/css-media-queries/). 
 **Your design should work for various standard devices such as Laptops, Mobiles and Tv screens. Design your output such that the maximum width lies in the range 1300px - 450px.**
