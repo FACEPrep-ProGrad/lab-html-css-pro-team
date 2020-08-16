@@ -105,7 +105,8 @@ To do achieve this refer to the below code snippet.
 }
 ```
 
-#Expected Output
+# Expected Output
+You can refer to the final output here. If you try to shrink the screen, you can visualize as per the screen size.
 [Final-Output](https://faceprep-prograd.github.io/lab-html-css-pro-team/)
 
 Happy Coding ProGrads❤️
