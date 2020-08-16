@@ -44,6 +44,7 @@ Kindly refer to the screenshot given below after the screensize is reduced.
 ![](https://i1.faceprep.in/ProGrad/ProTeam-5.png)
 ![](https://i1.faceprep.in/ProGrad/ProTeam-6.png)
 
+
 The screenshots below the mobile view of the entire page.
 ![](https://i1.faceprep.in/ProGrad/ProTeam-7.png)
 ![](https://i1.faceprep.in/ProGrad/ProTeam-8.png)
