@@ -31,7 +31,7 @@ The starter-code contains all the files, images, and text content needed to crea
 ### Progression 1: Design the posters
 
 You are expected to build a very responsive layout as per the expected output given below.
-![](https://i1.faceprep.in/ProGrad/ProTeam.gif)
+![Expected Output](https://i1.faceprep.in/ProGrad/ProTeam.gif)
 
 
 
