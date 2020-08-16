@@ -34,16 +34,18 @@ You are expected to build a very responsive layout as per the expected output gi
 ![Expected Output](https://i1.faceprep.in/ProGrad/ProTeam-1.png)
 
 ### Progression 2: Be very responsive 
-Now make the design very very responsive by using media queries.If you need a reference to media queries, you can refer here [Media queries](https://css-tricks.com/css-media-queries/). Your design should work for various standard devices such as Laptops, Mobiles and Tv screens. 
-Kindly refer to the screenshot given below
-
-## Expected Output
-Here is a complete screenshot of the entire expected output.
+Now make the design very very responsive by using media queries.If you need a reference to media queries, you can refer here [Media queries](https://css-tricks.com/css-media-queries/). 
+**Your design should work for various standard devices such as Laptops, Mobiles and Tv screens. Design your output such that the maximum width lies in the range 1300px - 450px**
+Kindly refer to the screenshot given below.
 ![Expected Output-1](https://i1.faceprep.in/ProGrad/ProTeam-2.png)
 ![Expected Output-2](https://i1.faceprep.in/ProGrad/ProTeam-3.png)
 ![Expected Output-3](https://i1.faceprep.in/ProGrad/ProTeam-4.png)
 ![Expected Output-4](https://i1.faceprep.in/ProGrad/ProTeam-5.png)
 ![Expected Output-5](https://i1.faceprep.in/ProGrad/ProTeam-6.png)
+
+## Expected Output
+Here is a complete screenshot of the entire expected output.
+
 
 
 Happy Coding ❤️
